@@ -1,4 +1,4 @@
-# n8n + Qdrant Cloud Run 構築プロンプト（Claude Code用）
+# 使い方
 
 1. プロンプト内の3箇所を書き換える：
    - {{GCP_PROJECT_ID}} → GCPプロジェクトID
