@@ -1,0 +1,8 @@
+# 環境変数（APIキーを含むため必ず除外）
+.env
+
+# n8nデータ
+n8n_data/
+
+# Qdrantデータ
+qdrant_data/
